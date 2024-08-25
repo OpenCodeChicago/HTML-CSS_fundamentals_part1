@@ -31,7 +31,7 @@ To explore the content of this repository:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/OpenCodeChicago/your-repo-name.git
+   git clone https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1.git
    ```
 2. **Open the Project**:
    Open the `index.html` file in your browser to see the basic structure and styling in action.
