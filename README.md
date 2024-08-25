@@ -32,11 +32,10 @@ To explore the content of this repository:
 
 ## Folder Structure
 
-   `
-├── index.html  # Main HTML file
-├── styles.css  # External CSS file for styling
-└── images      # Folder for image assets
-   `
+This repository follows the folder structure below:
+- **`index.html`**: This is the main HTML file where the content and structure of the web page are defined.
+- **`styles.css`**: This external CSS file is used for styling the HTML elements.
+- **`images/`**: This folder contains image assets used in the project.
 
 ---
 
