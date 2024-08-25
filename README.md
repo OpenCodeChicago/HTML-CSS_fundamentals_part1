@@ -32,11 +32,11 @@ To explore the content of this repository:
 
 ## Folder Structure
 
-   ```bash
+   `
 ├── index.html  # Main HTML file
 ├── styles.css  # External CSS file for styling
 └── images      # Folder for image assets
-   ```
+   `
 
 ---
 
