@@ -1,13 +1,3 @@
-# HTML-CSS_fundamentals_part1
-
-## Description:
-This repository contains the foundational materials for our first lesson in front-end development, covering basic HTML and CSS concepts. Participants will learn how to structure a webpage using HTML and style it using CSS. The repository includes examples of semantic HTML elements, CSS styling (external, internal, and inline), and practical exercises to reinforce learning.
-
-## Files:
-index.html: A sample HTML file demonstrating the use of basic HTML tags, semantic elements, and CSS styling.
-styles.css: External CSS file (add later if not included yet) for applying consistent styling across the HTML file.
-images/: Folder containing images used in the HTML file.
-
 # HTML/CSS Fundamentals
 
 This repository covers the fundamentals of HTML and CSS, focusing on creating structured web pages and basic styling techniques. It is perfect for beginners or anyone looking to solidify their foundational skills in web development.
@@ -42,8 +32,21 @@ To explore the content of this repository:
 
 ## Folder Structure
 
+   ```bash
 ├── index.html  # Main HTML file
 ├── styles.css  # External CSS file for styling
 └── images      # Folder for image assets
+   ```
 
 ---
+
+## What's Next
+
+As we continue to dive deeper into <abbr title="Hypertext Markup Language">HTML</abbr> and CSS, the next lesson will cover:
+- **Block vs. Inline Elements**: Understanding the difference between block-level and inline-level elements.
+- **Box Model**: Exploring the box model, including content-box vs. border-box, and how padding, margins, and borders work.
+- **Flexbox Basics**: An introduction to Flexbox, a powerful layout module that allows for flexible and efficient alignment of elements on the web.
+
+---
+
+**Stay tuned as we build on these foundational skills and move toward more advanced concepts in web development.**
