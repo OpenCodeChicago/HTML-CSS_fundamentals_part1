@@ -41,7 +41,7 @@ This repository follows the folder structure below:
 
 ## What's Next
 
-As we continue to dive deeper into <abbr title="Hypertext Markup Language">HTML</abbr> and CSS, the next lesson will cover:
+As we continue to dive deeper into **`HTML`** and **`CSS`**, the next lesson will cover:
 - **Block vs. Inline Elements**: Understanding the difference between block-level and inline-level elements.
 - **Box Model**: Exploring the box model, including content-box vs. border-box, and how padding, margins, and borders work.
 - **Flexbox Basics**: An introduction to Flexbox, a powerful layout module that allows for flexible and efficient alignment of elements on the web.
