@@ -98,4 +98,9 @@ For any questions, suggestions, or further discussion, feel free to reach out to
 <a href="https://www.behance.net/a1126" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.behance.net/a1126" target="_blank">
+<img src=https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Falexsmagin29 alt=behance style="margin-bottom: 5px;" />
+</a>
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Falexsmagin29)
+
 </div>
