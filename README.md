@@ -52,3 +52,34 @@ As we continue to dive deeper into **`HTML`** and **`CSS`**, the next lesson wil
 ---
 
 **Stay tuned as we build on these foundational skills and move toward more advanced concepts in web development.**
+
+## Languages and Tools:
+
+<div align="center">
+
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+
+</div>
+
+---
+
+## Issues
+
+If you encounter any issues or have suggestions for improvements, please let us know by [opening an issue](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/issues) on GitHub.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Feedback
+
+Your feedback is valuable to us! If you have any thoughts on how we can improve, please [submit feedback](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/issues) or contact us directly.
+
+## Contact Us
+
+For any questions or further assistance, feel free to reach out:
+- **Email**: [contact@opencodechicago.org](mailto:contact@opencodechicago.org)
+- **Discord**: [Join our server](https://discord.gg/your-invite-link)
