@@ -1,4 +1,4 @@
-# HTML/CSS Fundamentals
+# HTML/CSS Fundamentals: HTML/CSS Basics, Element Hierarchy & Semantic HTML
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/HTML-CSS_fundamentals_part1)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/commits/main)
 [![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/HTML-CSS_fundamentals_part1)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/blob/main/LICENSE)
